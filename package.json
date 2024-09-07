@@ -1,0 +1,20 @@
+{
+  "name": "my-random-meme-generator",
+  "version": "1.0.0",
+  "description": "This package lets you generate random memes on the interent",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NihalTavin/my-random-meme-generator.git"
+  },
+  "author": "Nihal Tavin",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/NihalTavin/my-random-meme-generator/issues"
+  },
+  "homepage": "https://github.com/NihalTavin/my-random-meme-generator#readme"
+}
